@@ -15,10 +15,10 @@ Some implemented methods:Template matching, Histogram of oriented gradient (HOG)
 Sino-Nom Character Retrieval/ \
 ├── Report/ \
 │   └── Final_Report.pdf \
-├── Hist-Method.ipynb
-├── Hog-Method.ipynb
-├── README.md
-├── simp-method.ipynb
+├── Hist-Method.ipynb \
+├── Hog-Method.ipynb \
+├── README.md \
+├── simp-method.ipynb \
 
 ## Result
 Here are our results obtained from experiments:
