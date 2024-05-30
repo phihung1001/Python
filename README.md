@@ -25,7 +25,7 @@ Here are our results obtained from experiments:
 
 | Method            | Database   | Pairs      |
 | ----------------- | ---------- | ---------- |
-| Template matching | 0.8805     | 0.7671     |
+| Template matching | 0.8005     | 0.7671     |
 | Hist              | 0.7613     | 0.7225     |
 | HOG               | 0.7533     | 0.7589     |
 
